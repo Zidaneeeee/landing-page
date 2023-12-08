@@ -1,0 +1,33 @@
+a {
+  text-decoration: none;
+  color: #27c499;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+}
+
+.benefit {
+  padding-top: 10rem;
+}
+
+.demo {
+  padding-top: 7rem;
+}
+
+.link {
+  padding-top: 7rem;
+}
+
+.icon {
+  padding-top: 2rem;
+}
+
+.card {
+  background-color: #edf6f3;
+  outline: #27c499;
+}
+
+h3 {
+  padding-top: 1rem;
+}
